@@ -1,0 +1,6 @@
+# Write code below 💖
+
+mass=45
+height=5.7
+bmi=mass/height**2
+print(bmi)
