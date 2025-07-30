@@ -1,0 +1,7 @@
+
+Co=int(input("What do you have left in pesos:"))
+Pe=int(input("What do you have left in soles:"))
+Br=int(input("What do you have left in reais:"))
+usd=(Co*0.053)+(Pe*0.28)+(Br*0.18)
+total=usd
+print(total)
